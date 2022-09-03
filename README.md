@@ -2,7 +2,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Next-Template
 
-`Next-Template` 提供一个开发 next.js 项目的基础模板，在官方配置的基础上包含了一些 baseUrl 配置、浏览器默认样式兼容、less 引入等一些预配置。
+`Next-Template` 提供一个开发 next.js 项目的基础模板，在官方配置的基础上包含了一些 baseUrl 配置、浏览器默认样式兼容、sass 引入等一些预配置。
 
 ### Getting Started
 
