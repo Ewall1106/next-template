@@ -1,6 +1,10 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
+## Next-Template
+
+`Next-Template` 提供一个开发 next.js 项目的基础模板，在官方配置的基础上包含了一些 baseUrl 配置、浏览器默认样式兼容、less 引入等一些预配置。
+
+### Getting Started
 
 First, run the development server:
 
@@ -9,6 +13,11 @@ npm run dev
 # or
 yarn dev
 ```
+
+### Link
+
+[API routes](https://nextjs.org/docs/api-routes/introduction)
+[API routes](https://nextjs.org/docs/api-routes/introduction)
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
