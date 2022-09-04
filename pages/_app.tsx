@@ -1,5 +1,5 @@
-import 'styles/reset.css'
-import 'styles/antd.css'
+import '@/styles/reset.css'
+import '@/styles/antd.css'
 
 import type { AppProps } from 'next/app'
 
