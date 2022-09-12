@@ -1,43 +1,38 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## NEXT-TEMPLATE
 
-## Next-Template
+<p>
+  <a>
+    <img src="https://img.shields.io/badge/next-12.2.5-blue.svg" alt="react">
+  </a>
+  <a>
+    <img src="https://img.shields.io/github/license/mashape/apistatus.svg" alt="license">
+  </a>
+</p>
 
-`Next-Template` 提供一个开发 next.js 项目的基础模板，在官方配置的基础上包含了一些 baseUrl 配置、浏览器默认样式兼容、sass 引入等一些预配置。
+`React-Template` is basic template including some common solutions and extended functions on the basis of the official templates.
 
-### Getting Started
+Build components: https://bamboo-material.vercel.app
 
-First, run the development server:
+More info: https://bamboo-docs.vercel.app
+
+## USAGE
 
 ```bash
-npm run dev
-# or
-yarn dev
+# clone
+$ git clone git@github.com:Ewall1106/next-template.git
+# install & run
+$ yarn & yarn dev
 ```
 
-### Link
+## MEMO
 
-[API routes](https://nextjs.org/docs/api-routes/introduction)
-[API routes](https://nextjs.org/docs/api-routes/introduction)
+1. Other relevant template recommend:
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+   - [react-template](https://github.com/Ewall1106/react-template)
+   - [vue-h5-template](https://github.com/Ewall1106/vue-h5-template)
+   - [vue-next-template](https://github.com/Ewall1106/vue-next-template)
 
-You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
+## LICENSE
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
-
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+- [MIT](https://github.com/Ewall1106/next-template/blob/main/LICENSE)
+- Copyright (c) 2022-present danielxiong
